@@ -26,5 +26,5 @@ jobs:
           context: ./
           push: true
           tags: |
-                kalharacodes/docker-automation:${{ env.SHORT_SHA }}
-                kalharacodes/docker-automation:latest
+                saranihansika/docker-automation:${{ env.SHORT_SHA }}
+                saranihansika/docker-automation:latest
